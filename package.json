@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1"
   },
   "dependencies": {
+    "process-argv": "^1.0.0",
     "promptly": "^3.2.0"
   }
 }
